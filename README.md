@@ -9,3 +9,6 @@ Lindeberg - Lévy just met a whole bunch of mean persons, instantly they transfo
 Statisics is the art of never having to say you're wrong.
 
 ***
+Statisticians do not wait for moments, they generate them.
+
+***
